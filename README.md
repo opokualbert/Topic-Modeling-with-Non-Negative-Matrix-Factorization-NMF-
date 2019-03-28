@@ -1,5 +1,8 @@
-# Topic-Modeling-with-Non-Negative-Matrix-Factorization-NMF-
 <img src="title.PNG">
+
+# Topic Modeling with Non-Negative Matrix Factorization NMF
+Natural Language Processing
+
 **CASE:**
 Consumers provide feedback on financial products or services and our task is to extract the hidden themes/topics and assign each of the feedback documents to one of these themes or topics.
 
